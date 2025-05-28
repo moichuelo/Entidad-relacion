@@ -16,3 +16,9 @@ if (pregunta == "S" || pregunta == "s") {
 } else {
     document.getElementById("diagnostico").innerHTML = "Respuesta incorrecta";
 }
+
+// if (pregunta == "S" || pregunta == "s") {
+//     document.getElementById("diagnostico").innerHTML = "cambia la bombilla";
+// } else if (pregunta == "N" || pregunta == "n") {
+//     document.getElementById("diagnostico").innerHTML = "Enchufa la línea";
+// }
